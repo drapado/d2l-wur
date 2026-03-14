@@ -14,7 +14,7 @@ requirements = [
 setup(
     name='d2l',
     version=d2l.__version__,
-    python_requires='>=3.8',
+    python_requires='>=3.11',
     author='D2L Developers',
     author_email='d2l.devs@gmail.com',
     url='https://d2l.ai',
